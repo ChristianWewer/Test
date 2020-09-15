@@ -1,12 +1,11 @@
-def do_the_maff(a, b):
-	c=a+b
-	return c
+def do_the_maff(a, b, c):
+	return a+b+c
 	
 a=1
 b=2	
-	
-result = do_the_maff(a,b)
+c=3
+
+result = do_the_maff(a,b,c)
 print("{} + {} = {}".format(a,b,result)
 print("Math genious!")
-	
 	
