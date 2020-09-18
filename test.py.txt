@@ -1,6 +1,8 @@
 def do_the_maff(a, b):
-	c=a-b # subtracts the numbers!
+	c=(a+b)/2
 	return c
+	
+	
 	
 a=1
 b=2	
