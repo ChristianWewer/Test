@@ -1,5 +1,5 @@
 def do_the_maff(a, b):
-	c=a-b
+	c=a-b # subtracts the numbers!
 	return c
 	
 a=1
